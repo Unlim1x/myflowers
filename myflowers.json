@@ -1,0 +1,91 @@
+[
+{
+  "id": 1,
+  "name": "Гвоздика",
+  "watering": 3,
+  "period": "неделя"
+},
+{
+  "id": 2,
+  "name": "Гербера",
+  "watering": 1,
+  "period": "день"
+},
+{
+  "id": 3,
+  "name": "Ирис",
+  "watering": 2,
+  "period": "месяц"
+},
+{
+  "id": 4,
+  "name": "Роза",
+  "watering": 2,
+  "period": "месяц"
+},
+{
+  "id": 5,
+  "name": "Ромашка",
+  "watering": 1,
+  "period": "неделя"
+},
+{
+  "id": 6,
+  "name": "Хризантема",
+  "watering": 3,
+  "period": "неделя"
+},
+{
+  "id": 7,
+  "name": "Орхидея",
+  "watering": 1,
+  "period": "неделя"
+},
+{
+  "id": 8,
+  "name": "Фиалка",
+  "watering": 1,
+  "period": "неделя"
+},
+{
+  "id": 9,
+  "name": "Анемон",
+  "watering": 3,
+  "period": "неделя"
+},
+{
+  "id": 10,
+  "name": "Подсолнух",
+  "watering": 1,
+  "period": "неделя"
+},
+{
+  "id": 11,
+  "name": "Пион",
+  "watering": 2,
+  "period": "месяц"
+},
+{
+  "id": 12,
+  "name": "Тюльпан",
+  "watering": 1,
+  "period": "неделя"
+},
+{
+  "id": 13,
+  "name": "Гортензия",
+  "watering": 1,
+  "period": "неделя"
+},
+{
+  "id": 14,
+  "name": "Лилия",
+  "watering": 1,
+  "period": "неделя"
+},
+  {
+  "id": 15,
+  "name": "Ландыш",
+  "watering": 1,
+  "period": "неделя"
+}]
