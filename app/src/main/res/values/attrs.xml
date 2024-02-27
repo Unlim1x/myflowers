@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DirtView">
+        <attr name="customColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="GardenScrollView">
+        <attr name="pep" format="color" />
+    </declare-styleable>
+</resources>

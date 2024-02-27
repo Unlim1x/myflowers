@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFlowersClassic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_text">Test text</string>
+    <string name="my_garden">Мой сад</string>
+    <string name="coming_soon">Скоро...</string>
+    <string name="garden_image">Garden image</string>
+    <string name="achievement_pic">achievement pic</string>
+    <string name="inventory_header">Инвентарь</string>
+</resources>
